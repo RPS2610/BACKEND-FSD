@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "rollNo": "CSE24001",
+    "age": 19,
+    "gender": "Male",
+    "branch": "CSE",
+    "year": 2,
+    "section": "A",
+    "email": "aarav.sharma@example.com",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Ananya Verma",
+    "rollNo": "CSE24002",
+    "age": 20,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 2,
+    "section": "A",
+    "email": "ananya.verma@example.com",
+    "phone": "9876543211"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "rollNo": "CSE24003",
+    "age": 19,
+    "gender": "Male",
+    "branch": "CSE",
+    "year": 2,
+    "section": "B",
+    "email": "rohan.gupta@example.com",
+    "phone": "9876543212"
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "rollNo": "CSE24004",
+    "age": 20,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 2,
+    "section": "B",
+    "email": "priya.singh@example.com",
+    "phone": "9876543213"
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "rollNo": "CSE24005",
+    "age": 21,
+    "gender": "Male",
+    "branch": "CSE",
+    "year": 2,
+    "section": "A",
+    "email": "karan.mehta@example.com",
+    "phone": "9876543214"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "rollNo": "CSE24006",
+    "age": 19,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 2,
+    "section": "C",
+    "email": "sneha.patel@example.com",
+    "phone": "9876543215"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Yadav",
+    "rollNo": "CSE24007",
+    "age": 20,
+    "gender": "Male",
+    "branch": "CSE",
+    "year": 2,
+    "section": "C",
+    "email": "vikram.yadav@example.com",
+    "phone": "9876543216"
+  },
+  {
+    "id": 8,
+    "name": "Neha Kapoor",
+    "rollNo": "CSE24008",
+    "age": 19,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 2,
+    "section": "A",
+    "email": "neha.kapoor@example.com",
+    "phone": "9876543217"
+  },
+  {
+    "id": 9,
+    "name": "Aditya Mishra",
+    "rollNo": "CSE24009",
+    "age": 20,
+    "gender": "Male",
+    "branch": "CSE",
+    "year": 2,
+    "section": "B",
+    "email": "aditya.mishra@example.com",
+    "phone": "9876543218"
+  },
+  {
+    "id": 10,
+    "name": "Ishita Roy",
+    "rollNo": "CSE24010",
+    "age": 19,
+    "gender": "Female",
+    "branch": "CSE",
+    "year": 2,
+    "section": "C",
+    "email": "ishita.roy@example.com",
+    "phone": "9876543219"
+  }
+]

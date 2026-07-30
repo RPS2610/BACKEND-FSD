@@ -136,3 +136,24 @@
 // console.log("message 2");
 
 //create json for 10 students
+
+
+
+// async function test(){
+//     console.log("message: 1");
+//    const response= await fetch("./student.json"); 
+//    console.log(response.status);
+//    const stdn = await response.json();
+//    console.log("message : 3");
+//     return stdn;
+
+
+// }
+// test();
+// console.log("message 2");
+
+//create json for 10 students 
+
+// test().then((res)=>{
+//     console.log(res);
+// })

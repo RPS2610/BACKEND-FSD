@@ -1,0 +1,4 @@
+﻿BACKEND-FSD/Task/**/node_modules/
+BACKEND-FSD/Task/**/.env
+BACKEND-FSD/Assignment/**/node_modules/
+BACKEND-FSD/Assignment/**/.env
